@@ -103,24 +103,20 @@
         </div>
         <div class="lista-produtos-single">
             <h3>Mulangos</h3>
-            <h3 class="price-produto"><span>R$5,00</span></h3>  <!--interessante: se nao coloca span, fica a classe toda com cor diferente no background, com span, fica só os números...-->
-        </div>
+            <h3 class="price-produto"><span>R$5,00</span></h3> 
+        </div> 
         <div class="lista-produtos-single">
             <h3>Mulangos</h3>
-            <h3 class="price-produto"><span>R$5,00</span></h3>  <!--interessante: se nao coloca span, fica a classe toda com cor diferente no background, com span, fica só os números...-->
-        </div>
+            <h3 class="price-produto"><span>R$5,00</span></h3> 
+        </div> 
         <div class="lista-produtos-single">
             <h3>Mulangos</h3>
-            <h3 class="price-produto"><span>R$5,00</span></h3>  <!--interessante: se nao coloca span, fica a classe toda com cor diferente no background, com span, fica só os números...-->
-        </div>
+            <h3 class="price-produto"><span>R$5,00</span></h3> 
+        </div> 
         <div class="lista-produtos-single">
             <h3>Mulangos</h3>
-            <h3 class="price-produto"><span>R$5,00</span></h3>  <!--interessante: se nao coloca span, fica a classe toda com cor diferente no background, com span, fica só os números...-->
-        </div>
-        <div class="lista-produtos-single">
-            <h3>Mulangos</h3>
-            <h3 class="price-produto"><span>R$5,00</span></h3>  <!--interessante: se nao coloca span, fica a classe toda com cor diferente no background, com span, fica só os números...-->
-        </div>
+            <h3 class="price-produto"><span>R$5,00</span></h3> 
+        </div> 
     </div>
 
     <div class="soma-produto">
