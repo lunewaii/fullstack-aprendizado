@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu primeiro programa!</title>
+    <style>
+        body {
+            background-color: rgb(134, 105, 160);
+            color: antiquewhite;
+            font: normal 20pt Century;
+        }
+
+        h1 {  
+            color: aqua;
+        }
+
+        h2 {
+            color: bisque;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>hello, world!</h1> 
+    <h2>estou aprendendo javascript!</h2>
+    <p>pelo curso em vídeo do canal curso em vídeo</p>
+    <p>estou muito ansiosa pra fazer tudo certinho!</p>
+    <script>
+        var n1 = Number(prompt('digite um número: '))
+        var n2 = Number(prompt('digite outro número: '))
+        var soma = n1 + n2
+        alert(`a soma entre ${n1} e ${n2} é ${soma} :)`)
+    </script>
+</body>
+
+</html>
