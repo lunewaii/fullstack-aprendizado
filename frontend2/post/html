@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="post.css" rel="stylesheet"/>
+    <title>post</title>
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <div class="titulo"><p>lore ipsum</p></div>
+            <div class="corpo">
+                <p>Lorem ipsum dolor sit amet. Aut autem dolores vel corporis reprehenderit aut totam officiis et illum dolores qui maiores dolores qui tempore galisum! In numquam maiores vel nihil esse in mollitia esse ea expedita similique est soluta magni a Quis odio. Ut esse dolores rem nesciunt quia eos sunt tenetur ex quos veritatis est amet libero est ratione tenetur ut aliquam totam. Qui recusandae tenetur aut doloribus dolor aut nesciunt debitis ex voluptatem dicta. </p><p>Magni amet ab culpa numquam rem praesentium quis ex aliquam nobis nam labore earum? Aut sint provident 33 eveniet quisquam est nesciunt facere in quia harum. In dicta tenetur eos iure dignissimos vel ratione sapiente et fugit tempora et suscipit temporibus in dolore officiis vel tempora cupiditate. In eveniet illum ex fugiat excepturi quo sequi soluta aut sapiente quam sed facere galisum. </p><p>Aut nihil optio qui iste nulla eum voluptatum distinctio ea earum distinctio et adipisci suscipit. Sit veniam eius qui voluptatem quasi ut sint quisquam. Quo nostrum exercitationem quo quibusdam itaque et esse vero sit culpa quaerat. Sed internos perferendis est perspiciatis maxime et illum soluta sed nobis possimus At eius pariatur et cupiditate omnis in exercitationem exercitationem. </p><p>Et saepe dicta et quod officiis quo dolores corporis qui enim consequatur ut deleniti harum qui quia aliquam ut blanditiis aliquam. Qui rerum nesciunt qui magnam odit et dicta corporis et facere nihil quo repudiandae tenetur. Hic Quis adipisci est veniam nisi sit unde ipsum sed molestiae animi eum saepe repellat et optio iure eos laboriosam rerum. Ut impedit sint sit repellendus natus hic vitae consequatur aut modi perferendis aut dicta impedit! </p><p>Et blanditiis rerum id laboriosam sint id architecto dolorem sed dolores distinctio aut enim iste. Id quia doloribus et dignissimos beatae ut magnam quia hic voluptas tempora ut dignissimos sunt eos similique totam. </p>
+            </div>
+            <div class="montante-botao">
+                <p>Total recebido em donates: R$150,00</p>
+                <button class="botao">DONATE</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
